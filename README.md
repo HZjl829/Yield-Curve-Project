@@ -1,1 +1,1 @@
-This is the code the data for my yield curve project 
+This contains the code and data for my yield curve project 
